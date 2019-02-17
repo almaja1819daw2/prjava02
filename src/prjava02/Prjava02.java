@@ -9,7 +9,7 @@ import java.net.*;
 
 /**
  *
- * @author --> Escriu el teu correu electrònic
+ * @author --> almaja1819daw2@gmail.com
  */
 public class Prjava02 {
 
